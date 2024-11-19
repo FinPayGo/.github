@@ -1,2 +1,4 @@
-# .github
-FinPayGo
+# FinPayGo
+
+
+## Finance in Go.
