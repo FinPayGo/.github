@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+FinPay is the way to Go 😜
 <!--
 
 **Here are some ideas to get you started:**
